@@ -1,11 +1,12 @@
 ---
-title:  "Exploring the World of AI Content Writers with Copy.ai"
+title: "Exploring the World of AI Content Writers with Copy.ai"
 excerpt: Copy.ai is a new kind of content writer. It's an AI that can write any type of content and it can do it quickly, easily and with precision. But how does it work? Let's dig in to find out!
 tags:
   - blog
   - ai
+  - ai-generated
 ---
-## Introduction'
+## Introduction
 Copy.ai is a new kind of content writer. It's an AI that can write any type of content and it can do it quickly, easily and with precision. But how does it work? Let's dig in to find out!
 
 ## A New Kind of Content Writer
